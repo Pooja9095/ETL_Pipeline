@@ -1,4 +1,4 @@
-### Project Name: Weather Data ETL Pipeline
+# Project Name: Weather Data ETL Pipeline
 
 ## Overview
 This project develops an ETL (Extract, Transform, Load) pipeline that fetches weather data from the OpenWeatherMap API, processes the data, and stores it into a SQLite database. This allows for the efficient storage and retrieval of weather conditions for specified cities.
